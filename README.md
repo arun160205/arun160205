@@ -1,4 +1,4 @@
-###### **ARUN - ML Engineer**
+# **ARUN - ML Engineer**
 
 Hello there! 👋 I'm Arun , a 20-year-old aspiring ML engineer and Data analyst from Namakkal, Tamil Nadu. Welcome to my GitHub profile!
 
